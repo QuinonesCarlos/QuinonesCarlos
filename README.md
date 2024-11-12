@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @QuinonesCarlos
 - 👀 I’m interested in programming and videogames
-- 🌱 I’m currently learning studying software development and management engineering at the Technological University of Durango.
+- 🌱 I’m a software developer and my favorite thing to make is web sites
 - 📫 How to reach me: c.j.q.h.99@gmail.com
 
 <!---
